@@ -1,3 +1,3 @@
 # calculatore
 This is my First repository
-Author sapna singh
+Auther- sapna singh
